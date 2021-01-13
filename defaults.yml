@@ -34,5 +34,7 @@ vsphere_folder: XXX
 vsphere_disks: "64"
 vsphere_network: XXX
 
+oci_region: uk-london-1
+
 #env:
 #    licenses: "XXXX-XXXX-XXXX-XXXX-XXXX-XXXX-XXXX-XXXX XXXX-XXXX-XXXX-XXXX-XXXX-XXXX-XXXX-XXXX ..."
